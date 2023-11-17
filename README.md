@@ -17,7 +17,7 @@ Il s'agit d'un simple exercice pour apprendre a crée un ficher php avec un stru
 - PHP 8.2.12
 - HTML 5
 - CSS 3
-- Bootstrap 5.3
+- Bootstrap 5
 - Laragon 6
 - Apache 2.4
 - MySQL 8
